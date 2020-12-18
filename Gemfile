@@ -14,6 +14,7 @@ gem 'bootsnap', '>= 1.4.2', require: false
 gem 'gravatar_image_tag'
 gem 'simple_form'
 gem 'devise'
+gem "bulma-rails"
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
