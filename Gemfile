@@ -16,6 +16,7 @@ gem 'simple_form'
 gem 'devise'
 gem 'bulma-rails'
 gem 'kramdown', '~> 1.11', '>= 1.11.1'
+gem 'mini_magick'
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
